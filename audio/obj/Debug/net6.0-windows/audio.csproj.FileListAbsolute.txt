@@ -1,0 +1,56 @@
+C:\Users\Дарья\source\repos\audio\audio\obj\Debug\net6.0-windows\audio.csproj.AssemblyReference.cache
+C:\Users\Дарья\source\repos\audio\audio\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Дарья\source\repos\audio\audio\obj\Debug\net6.0-windows\audio_MarkupCompile.cache
+C:\Users\Дарья\source\repos\audio\audio\bin\Debug\net6.0-windows\audio.exe
+C:\Users\Дарья\source\repos\audio\audio\bin\Debug\net6.0-windows\audio.deps.json
+C:\Users\Дарья\source\repos\audio\audio\bin\Debug\net6.0-windows\audio.runtimeconfig.json
+C:\Users\Дарья\source\repos\audio\audio\bin\Debug\net6.0-windows\audio.dll
+C:\Users\Дарья\source\repos\audio\audio\bin\Debug\net6.0-windows\audio.pdb
+C:\Users\Дарья\source\repos\audio\audio\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Дарья\source\repos\audio\audio\obj\Debug\net6.0-windows\audio_MarkupCompile.lref
+C:\Users\Дарья\source\repos\audio\audio\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Дарья\source\repos\audio\audio\obj\Debug\net6.0-windows\audio.g.resources
+C:\Users\Дарья\source\repos\audio\audio\obj\Debug\net6.0-windows\audio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Дарья\source\repos\audio\audio\obj\Debug\net6.0-windows\audio.AssemblyInfoInputs.cache
+C:\Users\Дарья\source\repos\audio\audio\obj\Debug\net6.0-windows\audio.AssemblyInfo.cs
+C:\Users\Дарья\source\repos\audio\audio\obj\Debug\net6.0-windows\audio.csproj.CoreCompileInputs.cache
+C:\Users\Дарья\source\repos\audio\audio\obj\Debug\net6.0-windows\audio.dll
+C:\Users\Дарья\source\repos\audio\audio\obj\Debug\net6.0-windows\refint\audio.dll
+C:\Users\Дарья\source\repos\audio\audio\obj\Debug\net6.0-windows\audio.pdb
+C:\Users\Дарья\source\repos\audio\audio\obj\Debug\net6.0-windows\audio.genruntimeconfig.cache
+C:\Users\Дарья\source\repos\audio\audio\obj\Debug\net6.0-windows\ref\audio.dll
+C:\Users\Дарья\source\repos\audio\audio\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\Дарья\source\repos\audio\audio\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\Дарья\source\repos\audio\audio\obj\Debug\net6.0-windows\audio.csproj.CopyComplete
+C:\Users\Дарья\source\repos\audio\audio\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+C:\Users\Дарья\source\repos\audio\audio\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+C:\Users\Дарья\source\repos\audio\audio\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\Дарья\source\repos\audio\audio\obj\Debug\net6.0-windows\App.baml
+D:\проекты визуал студио\аудиоплэйер2\audio\bin\Debug\net6.0-windows\audio.exe
+D:\проекты визуал студио\аудиоплэйер2\audio\bin\Debug\net6.0-windows\audio.deps.json
+D:\проекты визуал студио\аудиоплэйер2\audio\bin\Debug\net6.0-windows\audio.runtimeconfig.json
+D:\проекты визуал студио\аудиоплэйер2\audio\bin\Debug\net6.0-windows\audio.dll
+D:\проекты визуал студио\аудиоплэйер2\audio\bin\Debug\net6.0-windows\audio.pdb
+D:\проекты визуал студио\аудиоплэйер2\audio\bin\Debug\net6.0-windows\MaterialDesignColors.dll
+D:\проекты визуал студио\аудиоплэйер2\audio\bin\Debug\net6.0-windows\MaterialDesignThemes.Wpf.dll
+D:\проекты визуал студио\аудиоплэйер2\audio\bin\Debug\net6.0-windows\Microsoft.Xaml.Behaviors.dll
+D:\проекты визуал студио\аудиоплэйер2\audio\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.dll
+D:\проекты визуал студио\аудиоплэйер2\audio\bin\Debug\net6.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+D:\проекты визуал студио\аудиоплэйер2\audio\obj\Debug\net6.0-windows\audio.csproj.AssemblyReference.cache
+D:\проекты визуал студио\аудиоплэйер2\audio\obj\Debug\net6.0-windows\MainWindow.g.cs
+D:\проекты визуал студио\аудиоплэйер2\audio\obj\Debug\net6.0-windows\App.g.cs
+D:\проекты визуал студио\аудиоплэйер2\audio\obj\Debug\net6.0-windows\audio_MarkupCompile.cache
+D:\проекты визуал студио\аудиоплэйер2\audio\obj\Debug\net6.0-windows\audio_MarkupCompile.lref
+D:\проекты визуал студио\аудиоплэйер2\audio\obj\Debug\net6.0-windows\App.baml
+D:\проекты визуал студио\аудиоплэйер2\audio\obj\Debug\net6.0-windows\MainWindow.baml
+D:\проекты визуал студио\аудиоплэйер2\audio\obj\Debug\net6.0-windows\audio.g.resources
+D:\проекты визуал студио\аудиоплэйер2\audio\obj\Debug\net6.0-windows\audio.GeneratedMSBuildEditorConfig.editorconfig
+D:\проекты визуал студио\аудиоплэйер2\audio\obj\Debug\net6.0-windows\audio.AssemblyInfoInputs.cache
+D:\проекты визуал студио\аудиоплэйер2\audio\obj\Debug\net6.0-windows\audio.AssemblyInfo.cs
+D:\проекты визуал студио\аудиоплэйер2\audio\obj\Debug\net6.0-windows\audio.csproj.CoreCompileInputs.cache
+D:\проекты визуал студио\аудиоплэйер2\audio\obj\Debug\net6.0-windows\audio.csproj.CopyComplete
+D:\проекты визуал студио\аудиоплэйер2\audio\obj\Debug\net6.0-windows\audio.dll
+D:\проекты визуал студио\аудиоплэйер2\audio\obj\Debug\net6.0-windows\refint\audio.dll
+D:\проекты визуал студио\аудиоплэйер2\audio\obj\Debug\net6.0-windows\audio.pdb
+D:\проекты визуал студио\аудиоплэйер2\audio\obj\Debug\net6.0-windows\audio.genruntimeconfig.cache
+D:\проекты визуал студио\аудиоплэйер2\audio\obj\Debug\net6.0-windows\ref\audio.dll
